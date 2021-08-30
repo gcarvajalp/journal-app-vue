@@ -1,3 +1,11 @@
 // export const myGetter = (state) => {
-	// return state.algo;
+// return state.algo;
 // }
+
+export const getEntriesByTerm = (/*state*/) => {
+
+}
+
+export const getEntryById = (/*state*/) => {
+
+}
